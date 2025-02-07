@@ -77,3 +77,4 @@ After preparing the data, follow these steps to fine-tune the Whisper model:
 ├── README.md                   
 └── requirements.txt
 ```
+Last Updated - 10th september, 2024
