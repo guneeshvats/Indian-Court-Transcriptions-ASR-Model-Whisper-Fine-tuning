@@ -73,7 +73,7 @@ After preparing the data, follow these steps to fine-tune the Whisper model:
 │   └── fine_tune_whisper.py
 ├── output/                     
 │   └── evaluation.json         
-├── Report.md                   
+├── Report.md (Project Report)                   
 ├── README.md                   
 └── requirements.txt
 ```
