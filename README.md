@@ -49,7 +49,7 @@ After preparing the data, follow these steps to fine-tune the Whisper model:
 2. Run the file - `fine_tune_whisper.py`
 
 
-## Folder Structure 
+## Directory Structure 
 ```ASR_Fine_Tuning_Project/
 ├── data/                       
 │   ├── audio/                  
